@@ -1,0 +1,6 @@
+1º Amazon Corretto -> https://docs.aws.amazon.com/corretto/?icmpid=docs_homepage_sdktoolkits
+2º Downloads for Amazon Corretto 17 -> https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html
+
+
+3º OpenJDK -> https://openjdk.org/
+4º Archived OpenJDK General-Releases -> https://jdk.java.net/archive/
